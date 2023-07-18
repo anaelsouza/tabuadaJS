@@ -4,4 +4,6 @@ Aprendendo um pouco mais de JavaScript na prática, criamos uma tabuada funciona
 
 Lembrando que é um projeto prático bem básico, em busca de evolução!!
 
+Repositório do Git e Exportando diretamentae da Netlify
+
 Link da Tabuada: https://tabuada-dnc1.netlify.app/
