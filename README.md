@@ -4,4 +4,4 @@ Aprendendo um pouco mais de JavaScript na prática, criamos uma tabuada funciona
 
 Lembrando que é um projeto prático bem básico, em busca de evolução!!
 
-Link da Tabuada:
+Link da Tabuada: https://tabuada-dnc1.netlify.app/
