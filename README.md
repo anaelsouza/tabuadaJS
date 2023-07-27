@@ -1,9 +1,9 @@
 # tabuadaJS
 
-Aprendendo um pouco mais de JavaScript na prática, criamos uma tabuada funcional, contendo todos os números possíveis.
+Learning a little more JavaScript in practice, we created a functional table, containing all possible numbers.
 
-Lembrando que é um projeto prático bem básico, em busca de evolução!!
+Remembering that it is a very basic practical project, in search of evolution!!
 
-Repositório do Git e Exportando diretamentae da Netlify
+Git Repository and Exporting Directly from Netlify
 
-Link da Tabuada: https://tabuada-dnc1.netlify.app/
+Tabuada Link: https://tabuada-dnc1.netlify.app/
